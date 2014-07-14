@@ -2,7 +2,7 @@
 
 ## Idea Layout
 
-```
+```markdown
 # Idea Name
 
 **Language**: Project Language
