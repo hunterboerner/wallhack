@@ -1,1 +1,0 @@
-ideas/web-irc-client.md
