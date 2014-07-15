@@ -17,4 +17,4 @@ A Web Based IRC Client for all those who want it! A start would be using the [Da
 
 ## Status
 
-[ ] Complete
+- [ ] Complete
